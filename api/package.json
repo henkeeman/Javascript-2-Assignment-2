@@ -14,7 +14,7 @@
   "name": "inlammningsuppgift2",
   "version": "1.0.0",
   "description": "Inlämmningsuppgift 2 EC Utbildning Javascript 2",
-  "main": "api/backend/main.js",
+  "main": "backend/main.js",
   "scripts": {
     "start": "nodemon server"
   },
