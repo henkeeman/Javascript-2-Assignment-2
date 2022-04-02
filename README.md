@@ -2,8 +2,8 @@
 I denna inlämningsuppgift ska du bygga upp en väldigt enkel ecommerce sida som är gjord i Vue.
 <h2>Homepage<h2/>
 <p align="center"><img src="https://i.imgur.com/mtGccvH.png" alt="Logo" width="1000"></p>
-
+<h2>Products Page<h2/>
 <p align="center"><img src="https://i.imgur.com/D5nV7hp.png" alt="Logo" width="1000"></p>
-
+<h2>Product Focus Page<h2/>
 <p align="center"><img src="https://i.imgur.com/YcRSHEV.png" alt="Logo" width="1000"></p>
 
