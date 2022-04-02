@@ -35,7 +35,7 @@
     <div class="carousel-inner">
       <!-- Single item -->
       <div class="carousel-item active">
-        <img src="https://w.wallhaven.cc/full/k9/wallhaven-k92kq1.png" class="d-block w-100" alt="Sunset Over the City"/>
+        <img src='../img/pic1.jpeg' class="d-block w-100" alt="node.js wallpaper"/>
         <div class="carousel-caption d-none d-md-block">
           <h5>First slide label</h5>
           <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
@@ -44,7 +44,7 @@
 
       <!-- Single item -->
       <div class="carousel-item">
-        <img src="https://w.wallhaven.cc/full/6k/wallhaven-6k86y6.png" class="d-block w-100" alt="Canyon at Nigh"/>
+        <img src="../img/pic2.jpeg" class="d-block w-100" alt="html tag wallpaper"/>
         <div class="carousel-caption d-none d-md-block">
           <h5>Second slide label</h5>
           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
@@ -53,7 +53,7 @@
 
       <!-- Single item -->
       <div class="carousel-item">
-        <img src="https://w.wallhaven.cc/full/3k/wallhaven-3k2y79.jpg" class="d-block w-100" alt="Cliff Above a Stormy Sea"/>
+        <img src="../img/pic3.jpeg" class="d-block w-100" alt="generic monitor code wallpaper"/>
         <div class="carousel-caption d-none d-md-block">
           <h5>Third slide label</h5>
           <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
